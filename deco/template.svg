@@ -251,9 +251,9 @@
   </g>
 
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="30">I'm Korean and</text>
-    <text x="15" y="50">I'm interested in coding..</text>
+    <text x="15" y="50">I'm interested in coding.</text>
   </g>
 
   <g transform="translate(10, 120)" class="typing-3">
