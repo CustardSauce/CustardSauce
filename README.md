@@ -6,6 +6,7 @@
 <div align=center>
 
   <img src=./meme3.png>
+  
   ![snake gif](https://github.com/CustardSauce/CustardSauce/blob/output/github-contribution-grid-snake.svg)
 
 
